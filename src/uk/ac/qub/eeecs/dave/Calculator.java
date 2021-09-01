@@ -9,5 +9,5 @@ public class Calculator {
 		return a-b;
 	}
 	
-}//end of main
+}//end of main method
 
